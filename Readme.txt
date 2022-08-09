@@ -10,3 +10,7 @@
 	El tipico juego de piedra, papel o tijeras.
 5. El Juego del ahorcado.
 	El tipico juego del ahorcado.
+
+6. Busqueda Binaria vs Busqueda ingenua
+	Dos metodos de busqueda en listas, la ingenua busca uno por uno por el indice, mientras la binaria
+	va reduciendo el tamaño de la lista para eficientar la busqueda.
