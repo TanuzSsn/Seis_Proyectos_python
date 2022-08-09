@@ -5,6 +5,8 @@
 2. Adivina el número:
 	El usuario seleccióna el final del rango de numeros en el cual debera adivinar cual ha escogido el programa aleatoriamente.
 3.Adivina el numero (computadora):
-	La computadora tendra que ir encontrando el numero que escogamos, moviendo los limites de dnde busca
+	La computadora tendra que ir encontrando el numero que escogamos, moviendo los limites de dnde busca.
 4. Jugar piedra, papel o tijera vs pc
-	El tipico juego de piedra, papel o tijeras
+	El tipico juego de piedra, papel o tijeras.
+5. El Juego del ahorcado.
+	El tipico juego del ahorcado.
